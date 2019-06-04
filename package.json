@@ -1,0 +1,25 @@
+{
+  "name": "coursera",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergik/coursera.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergik/coursera/issues"
+  },
+  "homepage": "https://github.com/sergik/coursera#readme",
+  "devDependencies": {
+    "typescript": "^3.4.5"
+  }
+}
